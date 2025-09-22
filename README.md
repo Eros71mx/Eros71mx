@@ -1,6 +1,6 @@
 - 👋 Hola, Yo soy @Eros71mx
 - 👀 Esto interesado en aprender programacion
-- 🌱 Actualmente estoy aprendiendo FrontEnd 
+- 🌱 Actualmente estoy aprendiendo Python, HTML, CSS y JAVASCRIP 
 - 💞️ Estoy buscando colaboradores que tambien esten aprendiendo y les interese la programacion
 - 📫 Me pueden contactar en GitHub como Eros71mx
 
